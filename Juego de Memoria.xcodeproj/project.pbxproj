@@ -24,7 +24,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5BAD9CB01C68470F0067D787 /* Juego de Memoria fina.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Juego de Memoria fina.playground"; sourceTree = SOURCE_ROOT; };
+		5BAD9CB11C6848080067D787 /* Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Juego de Memoria.playground"; path = "../Juego de Memoria.playground"; sourceTree = "<group>"; };
 		5BD9D3C01C68175D007E4572 /* Juego de Memoria.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Juego de Memoria.app"; path = "/Users/Rodrigo/Documents/Xcode/Juego de Memoria/build/Debug-iphoneos/Juego de Memoria.app"; sourceTree = "<absolute>"; };
 		5BD9D3D41C68175D007E4572 /* Juego de MemoriaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Juego de MemoriaTests.xctest"; path = "/Users/Rodrigo/Documents/Xcode/Juego de Memoria/build/Debug-iphoneos/Juego de MemoriaTests.xctest"; sourceTree = "<absolute>"; };
 		5BD9D3DF1C68175D007E4572 /* Juego de MemoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Juego de MemoriaUITests.xctest"; path = "/Users/Rodrigo/Documents/Xcode/Juego de Memoria/build/Debug-iphoneos/Juego de MemoriaUITests.xctest"; sourceTree = "<absolute>"; };
@@ -58,16 +58,8 @@
 		5BD9D3B71C68175D007E4572 = {
 			isa = PBXGroup;
 			children = (
-				5BD9D3C21C68175D007E4572 /* Juego de Memoria */,
+				5BAD9CB11C6848080067D787 /* Juego de Memoria.playground */,
 			);
-			sourceTree = "<group>";
-		};
-		5BD9D3C21C68175D007E4572 /* Juego de Memoria */ = {
-			isa = PBXGroup;
-			children = (
-				5BAD9CB01C68470F0067D787 /* Juego de Memoria fina.playground */,
-			);
-			path = "Juego de Memoria";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
