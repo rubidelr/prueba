@@ -6,16 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		5BD9D3C41C68175D007E4572 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD9D3C31C68175D007E4572 /* AppDelegate.swift */; };
-		5BD9D3C61C68175D007E4572 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD9D3C51C68175D007E4572 /* ViewController.swift */; };
-		5BD9D3C91C68175D007E4572 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BD9D3C71C68175D007E4572 /* Main.storyboard */; };
-		5BD9D3CB1C68175D007E4572 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BD9D3CA1C68175D007E4572 /* Assets.xcassets */; };
-		5BD9D3CE1C68175D007E4572 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BD9D3CC1C68175D007E4572 /* LaunchScreen.storyboard */; };
-		5BD9D3D91C68175D007E4572 /* Juego_de_MemoriaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD9D3D81C68175D007E4572 /* Juego_de_MemoriaTests.swift */; };
-		5BD9D3E41C68175D007E4572 /* Juego_de_MemoriaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD9D3E31C68175D007E4572 /* Juego_de_MemoriaUITests.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		5BD9D3D51C68175D007E4572 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -34,20 +24,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5BD9D3C01C68175D007E4572 /* Juego de Memoria.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Juego de Memoria.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5BD9D3C31C68175D007E4572 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5BD9D3C51C68175D007E4572 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		5BD9D3C81C68175D007E4572 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5BD9D3CA1C68175D007E4572 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		5BD9D3CD1C68175D007E4572 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		5BD9D3CF1C68175D007E4572 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5BD9D3D41C68175D007E4572 /* Juego de MemoriaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Juego de MemoriaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5BD9D3D81C68175D007E4572 /* Juego_de_MemoriaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Juego_de_MemoriaTests.swift; sourceTree = "<group>"; };
-		5BD9D3DA1C68175D007E4572 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5BD9D3DF1C68175D007E4572 /* Juego de MemoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Juego de MemoriaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5BD9D3E31C68175D007E4572 /* Juego_de_MemoriaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Juego_de_MemoriaUITests.swift; sourceTree = "<group>"; };
-		5BD9D3E51C68175D007E4572 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5BD9D3F31C682F2F007E4572 /* Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Juego de Memoria.playground"; path = "../Juego de Memoria.playground"; sourceTree = "<group>"; };
+		5BAD9CB01C68470F0067D787 /* Juego de Memoria fina.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Juego de Memoria fina.playground"; sourceTree = SOURCE_ROOT; };
+		5BD9D3C01C68175D007E4572 /* Juego de Memoria.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Juego de Memoria.app"; path = "/Users/Rodrigo/Documents/Xcode/Juego de Memoria/build/Debug-iphoneos/Juego de Memoria.app"; sourceTree = "<absolute>"; };
+		5BD9D3D41C68175D007E4572 /* Juego de MemoriaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Juego de MemoriaTests.xctest"; path = "/Users/Rodrigo/Documents/Xcode/Juego de Memoria/build/Debug-iphoneos/Juego de MemoriaTests.xctest"; sourceTree = "<absolute>"; };
+		5BD9D3DF1C68175D007E4572 /* Juego de MemoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Juego de MemoriaUITests.xctest"; path = "/Users/Rodrigo/Documents/Xcode/Juego de Memoria/build/Debug-iphoneos/Juego de MemoriaUITests.xctest"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,53 +58,16 @@
 		5BD9D3B71C68175D007E4572 = {
 			isa = PBXGroup;
 			children = (
-				5BD9D3F31C682F2F007E4572 /* Juego de Memoria.playground */,
 				5BD9D3C21C68175D007E4572 /* Juego de Memoria */,
-				5BD9D3D71C68175D007E4572 /* Juego de MemoriaTests */,
-				5BD9D3E21C68175D007E4572 /* Juego de MemoriaUITests */,
-				5BD9D3C11C68175D007E4572 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		5BD9D3C11C68175D007E4572 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				5BD9D3C01C68175D007E4572 /* Juego de Memoria.app */,
-				5BD9D3D41C68175D007E4572 /* Juego de MemoriaTests.xctest */,
-				5BD9D3DF1C68175D007E4572 /* Juego de MemoriaUITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		5BD9D3C21C68175D007E4572 /* Juego de Memoria */ = {
 			isa = PBXGroup;
 			children = (
-				5BD9D3C31C68175D007E4572 /* AppDelegate.swift */,
-				5BD9D3C51C68175D007E4572 /* ViewController.swift */,
-				5BD9D3C71C68175D007E4572 /* Main.storyboard */,
-				5BD9D3CA1C68175D007E4572 /* Assets.xcassets */,
-				5BD9D3CC1C68175D007E4572 /* LaunchScreen.storyboard */,
-				5BD9D3CF1C68175D007E4572 /* Info.plist */,
+				5BAD9CB01C68470F0067D787 /* Juego de Memoria fina.playground */,
 			);
 			path = "Juego de Memoria";
-			sourceTree = "<group>";
-		};
-		5BD9D3D71C68175D007E4572 /* Juego de MemoriaTests */ = {
-			isa = PBXGroup;
-			children = (
-				5BD9D3D81C68175D007E4572 /* Juego_de_MemoriaTests.swift */,
-				5BD9D3DA1C68175D007E4572 /* Info.plist */,
-			);
-			path = "Juego de MemoriaTests";
-			sourceTree = "<group>";
-		};
-		5BD9D3E21C68175D007E4572 /* Juego de MemoriaUITests */ = {
-			isa = PBXGroup;
-			children = (
-				5BD9D3E31C68175D007E4572 /* Juego_de_MemoriaUITests.swift */,
-				5BD9D3E51C68175D007E4572 /* Info.plist */,
-			);
-			path = "Juego de MemoriaUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -215,7 +158,7 @@
 				Base,
 			);
 			mainGroup = 5BD9D3B71C68175D007E4572;
-			productRefGroup = 5BD9D3C11C68175D007E4572 /* Products */;
+			productRefGroup = 5BD9D3B71C68175D007E4572;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -231,9 +174,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BD9D3CE1C68175D007E4572 /* LaunchScreen.storyboard in Resources */,
-				5BD9D3CB1C68175D007E4572 /* Assets.xcassets in Resources */,
-				5BD9D3C91C68175D007E4572 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,8 +198,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BD9D3C61C68175D007E4572 /* ViewController.swift in Sources */,
-				5BD9D3C41C68175D007E4572 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,7 +205,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BD9D3D91C68175D007E4572 /* Juego_de_MemoriaTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,7 +212,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BD9D3E41C68175D007E4572 /* Juego_de_MemoriaUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,25 +229,6 @@
 			targetProxy = 5BD9D3E01C68175D007E4572 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		5BD9D3C71C68175D007E4572 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5BD9D3C81C68175D007E4572 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		5BD9D3CC1C68175D007E4572 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5BD9D3CD1C68175D007E4572 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		5BD9D3E61C68175D007E4572 /* Debug */ = {
