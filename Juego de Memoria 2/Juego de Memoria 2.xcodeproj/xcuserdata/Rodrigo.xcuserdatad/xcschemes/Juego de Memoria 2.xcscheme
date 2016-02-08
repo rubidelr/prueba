@@ -15,10 +15,10 @@
             hideIssues = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5BD9D3BF1C68175D007E4572"
-               BuildableName = "Juego de Memoria.app"
-               BlueprintName = "Juego de Memoria"
-               ReferencedContainer = "container:Juego de Memoria.xcodeproj">
+               BlueprintIdentifier = "5B3AF5281C6849120044ECC4"
+               BuildableName = "Juego de Memoria 2.app"
+               BlueprintName = "Juego de Memoria 2"
+               ReferencedContainer = "container:Juego de Memoria 2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,30 +33,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5BD9D3D31C68175D007E4572"
-               BuildableName = "Juego de MemoriaTests.xctest"
-               BlueprintName = "Juego de MemoriaTests"
-               ReferencedContainer = "container:Juego de Memoria.xcodeproj">
+               BlueprintIdentifier = "5B3AF53C1C6849120044ECC4"
+               BuildableName = "Juego de Memoria 2Tests.xctest"
+               BlueprintName = "Juego de Memoria 2Tests"
+               ReferencedContainer = "container:Juego de Memoria 2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5BD9D3DE1C68175D007E4572"
-               BuildableName = "Juego de MemoriaUITests.xctest"
-               BlueprintName = "Juego de MemoriaUITests"
-               ReferencedContainer = "container:Juego de Memoria.xcodeproj">
+               BlueprintIdentifier = "5B3AF5471C6849120044ECC4"
+               BuildableName = "Juego de Memoria 2UITests.xctest"
+               BlueprintName = "Juego de Memoria 2UITests"
+               ReferencedContainer = "container:Juego de Memoria 2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5BD9D3BF1C68175D007E4572"
-            BuildableName = "Juego de Memoria.app"
-            BlueprintName = "Juego de Memoria"
-            ReferencedContainer = "container:Juego de Memoria.xcodeproj">
+            BlueprintIdentifier = "5B3AF5281C6849120044ECC4"
+            BuildableName = "Juego de Memoria 2.app"
+            BlueprintName = "Juego de Memoria 2"
+            ReferencedContainer = "container:Juego de Memoria 2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5BD9D3BF1C68175D007E4572"
-            BuildableName = "Juego de Memoria.app"
-            BlueprintName = "Juego de Memoria"
-            ReferencedContainer = "container:Juego de Memoria.xcodeproj">
+            BlueprintIdentifier = "5B3AF5281C6849120044ECC4"
+            BuildableName = "Juego de Memoria 2.app"
+            BlueprintName = "Juego de Memoria 2"
+            ReferencedContainer = "container:Juego de Memoria 2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5BD9D3BF1C68175D007E4572"
-            BuildableName = "Juego de Memoria.app"
-            BlueprintName = "Juego de Memoria"
-            ReferencedContainer = "container:Juego de Memoria.xcodeproj">
+            BlueprintIdentifier = "5B3AF5281C6849120044ECC4"
+            BuildableName = "Juego de Memoria 2.app"
+            BlueprintName = "Juego de Memoria 2"
+            ReferencedContainer = "container:Juego de Memoria 2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Juego de Memoria.xcscheme</key>
+		<key>Juego de Memoria 2.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>5BD9D3BF1C68175D007E4572</key>
+		<key>5B3AF5281C6849120044ECC4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5BD9D3D31C68175D007E4572</key>
+		<key>5B3AF53C1C6849120044ECC4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5BD9D3DE1C68175D007E4572</key>
+		<key>5B3AF5471C6849120044ECC4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
