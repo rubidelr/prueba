@@ -47,7 +47,7 @@
 		5BD9D3DF1C68175D007E4572 /* Juego de MemoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Juego de MemoriaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BD9D3E31C68175D007E4572 /* Juego_de_MemoriaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Juego_de_MemoriaUITests.swift; sourceTree = "<group>"; };
 		5BD9D3E51C68175D007E4572 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5BD9D3F21C681AEE007E4572 /* Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Juego de Memoria.playground"; path = "../../Juego de Memoria.playground"; sourceTree = "<group>"; };
+		5BD9D3F31C682F2F007E4572 /* Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Juego de Memoria.playground"; path = "../Juego de Memoria.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +78,7 @@
 		5BD9D3B71C68175D007E4572 = {
 			isa = PBXGroup;
 			children = (
+				5BD9D3F31C682F2F007E4572 /* Juego de Memoria.playground */,
 				5BD9D3C21C68175D007E4572 /* Juego de Memoria */,
 				5BD9D3D71C68175D007E4572 /* Juego de MemoriaTests */,
 				5BD9D3E21C68175D007E4572 /* Juego de MemoriaUITests */,
@@ -98,7 +99,6 @@
 		5BD9D3C21C68175D007E4572 /* Juego de Memoria */ = {
 			isa = PBXGroup;
 			children = (
-				5BD9D3F21C681AEE007E4572 /* Juego de Memoria.playground */,
 				5BD9D3C31C68175D007E4572 /* AppDelegate.swift */,
 				5BD9D3C51C68175D007E4572 /* ViewController.swift */,
 				5BD9D3C71C68175D007E4572 /* Main.storyboard */,
@@ -484,6 +484,7 @@
 				5BD9D3EA1C68175D007E4572 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5BD9D3EB1C68175D007E4572 /* Build configuration list for PBXNativeTarget "Juego de MemoriaTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +493,7 @@
 				5BD9D3ED1C68175D007E4572 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5BD9D3EE1C68175D007E4572 /* Build configuration list for PBXNativeTarget "Juego de MemoriaUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +502,7 @@
 				5BD9D3F01C68175D007E4572 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
